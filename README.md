@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a MERN STACK Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
+As a MERN Stack Web Developer, I possess the technical expertise and hands-on experience required to build and maintain robust, scalable, and efficient web-based solutions. My proficiency in MongoDB, Express.js, React.js, and Node.js enables me to develop dynamic and high-performance applications that align with business objectives. I am dedicated to delivering sustainable and innovative software solutions that enhance a company's digital presence while effectively supporting its IT team. With a problem-solving mindset and a strong foundation in modern web technologies, I strive to create seamless and impactful user experiences.
 
 ♥️ I enjoy making people laugh and coding. <br/>
 📫 How to reach me: [email](hamidkhattak469@gmail.com) or [instagram](https://www.instagram.com/abdulhamid.469/) <br/>
